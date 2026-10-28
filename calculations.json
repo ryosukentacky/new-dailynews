@@ -1,0 +1,107 @@
+[
+  {
+    "term": "GDP低下",
+    "key": "fx",
+    "value": 170,
+    "expected": "3.88",
+    "pass": true
+  },
+  {
+    "term": "連立政策",
+    "key": "medical",
+    "value": 50000,
+    "expected": "5,000",
+    "pass": true
+  },
+  {
+    "term": "EV補助金",
+    "key": "vehiclePrice",
+    "value": 1000,
+    "expected": "870",
+    "pass": true
+  },
+  {
+    "term": "大規模サイバー攻撃",
+    "key": "minutes",
+    "value": 60,
+    "expected": "174,000",
+    "pass": true
+  },
+  {
+    "term": "日本株の急落",
+    "key": "usd",
+    "value": 10000,
+    "expected": "1,570,000",
+    "pass": true
+  },
+  {
+    "term": "空室対策",
+    "key": "renovation",
+    "value": 200,
+    "expected": "16.7",
+    "pass": true
+  },
+  {
+    "term": "iPhone発売",
+    "key": "months",
+    "value": 60,
+    "expected": "6,080",
+    "pass": true
+  },
+  {
+    "term": "賃上げ要求",
+    "key": "wage",
+    "value": 10,
+    "expected": "330,000",
+    "pass": true
+  },
+  {
+    "term": "OEM調達",
+    "key": "units",
+    "value": 300000,
+    "expected": "100,000",
+    "pass": true
+  },
+  {
+    "term": "中古マンション",
+    "key": "drop",
+    "value": 10,
+    "expected": "11,366",
+    "pass": true
+  },
+  {
+    "term": "漫画の海外配信",
+    "key": "share",
+    "value": 50,
+    "expected": "1,600",
+    "pass": true
+  },
+  {
+    "term": "旧村上ファンド",
+    "key": "holding",
+    "value": 20,
+    "expected": "20,000,000",
+    "pass": true
+  },
+  {
+    "term": "スターリンク",
+    "key": "speed",
+    "value": 100,
+    "expected": "8.0",
+    "pass": true
+  },
+  {
+    "term": "最終処分場",
+    "key": "years",
+    "value": 25,
+    "expected": "4,000",
+    "pass": true
+  },
+  {
+    "term": "世界一流",
+    "key": "km",
+    "value": 50,
+    "expected": "250",
+    "pass": true
+  }
+]

@@ -1,0 +1,18 @@
+{
+  "status": "PASS",
+  "checks": {
+    "originalMessages": 22,
+    "allSourceSegments": 93,
+    "cards": 93,
+    "views": 558,
+    "sliderBoundaryCases": 46,
+    "sliders": 23,
+    "radioChoices": 225,
+    "buttons": 55,
+    "originalSVG": 8,
+    "chartTables": 5,
+    "navigationAndFilters": "PASS"
+  },
+  "fail": [],
+  "errors": []
+}
